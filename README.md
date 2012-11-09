@@ -4,6 +4,8 @@ Wellcome to alljoy
 
 "Alljoy" is a set of experimental javascript tools that work around Alloy, the Titanium MVC framework.
 
+This app itself is done with Alloy and Titanium mobileweb sdk.
+
 It is just a place to put tools and ideas for Alloy all together. There's no road map nor a clear aim. So, you are warned. :)
 
 Now Alljoy includes 2 tools:
