@@ -14,6 +14,9 @@ Now Alljoy includes 2 tools:
 
 You can live test alljoy in http://www.titantricks.com/alljoy
 
+A video with a brief demo is also available here http://www.youtube.com/watch?v=IR1BtB3PcLM
+
+
 JSON <-> XML converter
 ====
 
