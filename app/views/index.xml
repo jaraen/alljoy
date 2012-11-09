@@ -1,0 +1,10 @@
+<Alloy>
+	<Window class="container">
+	    <View class="menuView">
+			<Label id="label">Wellcome to Alljoy, a set of experimental tools to do Alloy more enjoyable.</Label>
+			<Button onClick="openJSON2XMLconverter" class="menuButton">Convert JSON code to XML views </Button>
+			<!-- Button onClick="openStyleCodeCreator" class="menuButton">Create style and controller code for a view</Button-->
+			<Button onClick="balsamiqToXmlConverter" class="menuButton">Convert a XML Balsamiq document to Alloy</Button>
+		</View>
+	</Window>
+</Alloy>

@@ -1,0 +1,51 @@
+".container": {
+	backgroundColor: "white",
+	backgroundGradient:{
+		
+		colors:['#bbf','#fff']
+	}
+},
+".title": {
+	top:10,
+	textAlign:'center',
+	font:{fontSize:20, fontWeight:'bold', fontFamily:'Verdana'},
+	color:'#000'
+},
+".instructions": {
+	top:30,
+	textAlign:'center',
+	font:{fontSize:16, fontWeight:'bold', fontFamily:'Verdana'},
+	color:'#333'
+},
+
+".jsonArea": {
+	top:100,
+	left:20,
+	height:'600',
+	width:'45%',
+	enableReturnKey:true,
+	suppressReturn:false,
+	font:{fontSize:14,  fontFamily:'Courier'},
+	color:'#333'
+},
+
+".xmlArea": {
+	top:100,
+	right:20,
+	height:'600',
+	width:'45%',
+	enableReturnKey:true,
+	suppressReturn:false,
+	font:{fontSize:14,  fontFamily:'Courier'},
+	color:'#333',
+	value:'Paste here a XML view from alloy to test how it works.'
+},
+".buttonsView":{
+	height:Ti.UI.SIZE
+},
+
+".areaTitle": {
+	top:80,
+	font:{fontSize:20, fontWeight:'bold', fontFamily:'Verdana'},
+	color:'#bbb'
+},

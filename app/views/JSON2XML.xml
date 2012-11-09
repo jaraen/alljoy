@@ -1,0 +1,15 @@
+<Alloy>
+	<Window class="container" id='mainWin'>
+	    <Require src="closeButton" onClick="closeWin"/>
+	    <View layout="vertical" class="buttonsView">
+	        <Button onClick="convertJSON2XML">to XML</Button>
+	        <Button onClick="convertXML2JSON">to JSON</Button>
+	    </View>
+	    <Label class="title">JSON to XML Alloy views converter</Label>
+	    <Label class="instructions">Write your views in JSON and convert to XML and viceversa</Label>
+	    <TextArea class="jsonArea" id="jsonArea"></TextArea>
+	    <TextArea class="xmlArea" id="xmlArea"></TextArea>
+	    <Label class="areaTitle" left="40">JSON</Label>
+	    <Label class="areaTitle" right="40">XML</Label>
+	</Window>
+</Alloy>

@@ -61,12 +61,18 @@ Credits
 ====
 
 Alljoy:
+
 Javier Rayon, 2012
+
 twitter: @jrayon
+
 mail: javier at criteriastudio . com
+
 web: http://www.criteriastudio.com
+
 
 Libraries:
 JKLDumper, by Kawasaki Yusuke
+
 ObjTree, by Kawasaki Yusuke http://www.kawa.net/works/js/xml/objtree-e.html
  

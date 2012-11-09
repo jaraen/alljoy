@@ -1,0 +1,21 @@
+<Alloy>
+	<Window class="container" id='mainWin'>
+	    <Require src="closeButton" onClick="closeWin"/>
+
+	    <Label class="title">Balsamiq to Alloy views converter</Label>
+	    <Label class="instructions">Export a Balsamiq selection and paste here to generate XML and style files.</Label>
+	    	    
+	    <TextArea id="balsamiqXmlArea" />
+		<TextArea id="xmlArea"/>
+		<TextArea id="tssArea"/>
+		<Label id="view7" />
+		<Label id="view8" />
+		<Label id="view9" />
+		<!-- Button id="btnXmlClipboard" onClick="copyXmlToClipboard" visible=false />
+		<Button id="btnTssClipboard" onClick="copyTssToClipboard" visible=false /-->
+		<Button id="btnGo" onClick="convertBalsamiqToXML"/>
+		<TextArea id="logArea" />
+		<Label id="view14" />
+	    	    
+	</Window>
+</Alloy>

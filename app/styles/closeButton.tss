@@ -1,0 +1,8 @@
+".closeButton": {
+	width:50,
+	height:50,
+	left:10, top:10,
+	title:'X',
+	font:{fontSize:20, fontWeight:'bold'},
+	color:'#000'
+}

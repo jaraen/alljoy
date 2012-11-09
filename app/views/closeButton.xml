@@ -1,0 +1,3 @@
+<Alloy>
+	<Button class="closeButton" id="closeButton">X</Button>
+</Alloy>

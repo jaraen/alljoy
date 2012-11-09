@@ -1,0 +1,122 @@
+".container": {
+	backgroundColor: "white",
+	backgroundGradient:{
+		
+		colors:['#bbf','#fff']
+	}
+},
+".title": {
+	top:10,
+	textAlign:'center',
+	font:{fontSize:20, fontWeight:'bold', fontFamily:'Verdana'},
+	color:'#000'
+},
+".instructions": {
+	top:30,
+	textAlign:'center',
+	font:{fontSize:16, fontWeight:'bold', fontFamily:'Verdana'},
+	color:'#333'
+},
+
+"#balsamiqXmlArea": {
+		"controlID": "4",
+		"left": "32",
+		"top": "109",
+		"width": "492",
+		"height": "367",
+		"zIndex": "0",
+		"propcustomID": "balsamiqXmlArea"
+	},
+"#xmlArea": {
+	"controlID": "5",
+	"left": "539",
+	"top": "109",
+	"width": "370",
+	"height": "164",
+	"zIndex": "1",
+	"propcustomID": "xmlArea"
+},
+"#tssArea": {
+	"controlID": "6",
+	"left": "539",
+	"top": "304",
+	"width": "369",
+	"height": "172",
+	"zIndex": "2",
+	"propcustomID": "tssArea"
+},
+"#view7": {
+	"controlID": "7",
+	"left": "542",
+	"top": "86",
+	"width": "auto",
+	"height": "auto",
+	"zIndex": "3",
+	"text": "Alloy XML:"
+},
+"#view8": {
+	"controlID": "8",
+	"left": "542",
+	"top": "288",
+	"width": "85",
+	"height": "21",
+	"zIndex": "4",
+	"text": "Alloy TSS:"
+},
+"#view9": {
+	"controlID": "9",
+	"left": "38",
+	"top": "86",
+	"width": "auto",
+	"height": "auto",
+	"zIndex": "5",
+	"text": "Balsamiq XML:"
+},
+"#btnXmlClipboard": {
+	"controlID": "10",
+	"left": "811",
+	"top": "83",
+	"width": "98",
+	"height": "30",
+	"zIndex": "6",
+	"propcustomID": "btnXmlClipboard",
+	"title": "Copy XML"
+},
+"#btnTssClipboard": {
+	"controlID": "11",
+	"left": "811",
+	"top": "277",
+	"width": "98",
+	"height": "30",
+	"zIndex": "7",
+	"propcustomID": "btnTssClipboard",
+	"title": "Copy styles"
+},
+"#btnGo": {
+	"controlID": "12",
+	"left": "433",
+	"top": "75",
+	"width": "91",
+	"height": "30",
+	"zIndex": "8",
+	"propcustomID": "btnGo",
+	"title": "Go!"
+},
+"#logArea": {
+	"controlID": "13",
+	"left": "32",
+	"top": "510",
+	"width": "877",
+	"height": "97",
+	"zIndex": "9",
+	"propcustomID": "logArea"
+},
+"#view14": {
+	"controlID": "14",
+	"left": "32",
+	"top": "489",
+	"width": "85",
+	"height": "21",
+	"zIndex": "10",
+	"text": "log:"
+}

@@ -1,0 +1,25 @@
+"Label": {
+	color: '#000',
+},
+"Button": {
+	color: '#000',
+},
+"TextField": {
+	backgroundColor: '#fff',
+	borderWidth:1,
+	borderRadius:3,
+	borderColor:'#666',
+	paddingLeft:'5dp',
+	paddingRight:'5dp',
+},
+"TextArea": {
+	backgroundColor: '#fff',
+	borderWidth:2,
+	borderRadius:5,
+	borderColor:'#999',
+	paddingLeft:'5dp',
+	paddingRight:'5dp',
+	paddingTop:'5dp',
+	paddingBottom:'5dp',
+	font:{fontFamily:'Courier', fontSize:14}
+}

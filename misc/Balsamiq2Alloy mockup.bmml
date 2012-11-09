@@ -1,0 +1,66 @@
+<mockup version="1.0" skin="sketch" measuredW="909" measuredH="607" mockupW="877" mockupH="524">
+  <controls>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::TextArea" x="32" y="109" w="492" h="367" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <customID>balsamiqXmlArea</customID>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TextArea" x="539" y="109" w="370" h="164" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <customID>xmlArea</customID>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::TextArea" x="539" y="304" w="369" h="172" measuredW="200" measuredH="140" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <customID>tssArea</customID>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="542" y="86" w="-1" h="-1" measuredW="64" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Alloy%20XML%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="542" y="288" w="85" h="21" measuredW="65" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Alloy%20TSS%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="38" y="86" w="-1" h="-1" measuredW="89" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Balsamiq%20XML%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="811" y="83" w="98" h="30" measuredW="83" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <customID>btnXmlClipboard</customID>
+        <text>Copy%20XML</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Button" x="811" y="277" w="98" h="30" measuredW="90" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <customID>btnTssClipboard</customID>
+        <text>Copy%20styles</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Button" x="433" y="83" w="91" h="30" measuredW="45" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <customID>btnGo</customID>
+        <text>Go%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::TextArea" x="32" y="510" w="877" h="97" measuredW="200" measuredH="140" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <customID>logArea</customID>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="32" y="489" w="85" h="21" measuredW="27" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>log%3A</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
